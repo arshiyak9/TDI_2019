@@ -1,0 +1,4 @@
+This is a readme file for Acoustic Dataset for TDI2019 Challenge.
+The dataset was developed using SOX in two tones- singletone and tritone. We have taken 10 samples of each tone.
+".dat" files in this folder have readings of the amplitude of the dataset which was then converted to csv files to use in the dataset.
+There are 2000 values of amplitudes for a quarter of a second.
